@@ -1,7 +1,7 @@
 ### Olá, eu sou o Caio, sejam bem-vindos ao meu perfil! :smiley:
 <hr>
 <ul>
-  <li>Brasileiro natural de Santos, litoral de São Paulo. Atualmente resido em São Bernardo do Campo.</li>
+  <li>Brasileiro natural de Santos, litoral de São Paulo.</li>
   <li>Desenvolvedor web full stack, formado pela escola de tecnologia <a href="https://www.betrybe.com/" target="_blank">Trybe</a> em 2022.</li>
   <li>Não há nada que uma boa caminhada seguida de uma comidinha caseira não curem. :nerd_face:</li>
 </ul>
